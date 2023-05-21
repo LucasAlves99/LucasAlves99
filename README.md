@@ -7,7 +7,7 @@
 
 Tenho 21 anos.
 
-Sempre fui fascinado por tecnologia desde criança. Queria ser um Hacker Ético, mas os caminhos e escolhas da vida me fizeram aderir o lado dos Dados e da Inteligência Artificial(onde sempre tive curiosidade sobre seu funcionamento e aplicações). 
+Sempre fui fascinado por tecnologia desde criança. Queria ser um Hacker Ético, mas os caminhos e escolhas da vida me fizeram escolher o lado dos Dados e da Inteligência Artificial(onde sempre tive curiosidade sobre seu funcionamento e aplicações). 
 
 <div style="display: inline_block"><br>
 
